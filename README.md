@@ -1,4 +1,7 @@
-## Sansa
+Sansa 
+=============
+## A companion package for [circe](https://github.com/circe/circe) ##
+ - - - -
 
 This basic package just provides an implicit class which allows you to use a created decoder
 directly to manage strings.
